@@ -14,3 +14,4 @@
 Here's a [link](https://www.printables.com/@mando13_1132886/models) to my printables page where you can see all the models I'v designed!
 
 ## License
+This project is licensed under the MIT license and can be found at [LICENSE](LICENSE.md)
