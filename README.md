@@ -12,6 +12,7 @@ These are designs for One Piece-related accessories for the Dummy 13 figure foun
 - [Blank Chest Plate](https://www.printables.com/model/984041-dummy-13-blank-chest-plate) (this is not One Piece spcific but just to remove the unrelated 13 from the figure's chest)
 - [Zoro's Headband](https://www.printables.com/model/983976-dummy-13-zoros-headband)
 - [Zoro's 3 Sword Style Head](https://www.printables.com/model/983945-dummy-13-zoro-head)
+- [Zoro's katana sheaths](https://www.printables.com/model/986969-dummy-13-zoros-katana-sheaths/files)
 
 ## How to use them:
 Just throw 'em into your slicer and they're ready to print!
