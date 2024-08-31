@@ -13,6 +13,7 @@ These are designs for One Piece-related accessories for the Dummy 13 figure foun
 - [Zoro's Headband](https://www.printables.com/model/983976-dummy-13-zoros-headband)
 - [Zoro's 3 Sword Style Head](https://www.printables.com/model/983945-dummy-13-zoro-head)
 - [Zoro's katana sheaths](https://www.printables.com/model/986969-dummy-13-zoros-katana-sheaths/files)
+- [Arlong set](https://www.printables.com/model/992535-dummy-13-arlong-set/files)
 
 ## How to use them:
 Just throw 'em into your slicer and they're ready to print!
